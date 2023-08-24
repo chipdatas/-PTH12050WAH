@@ -1,5 +1,9 @@
 More information:  https://chipdatas.com/item/dvtdnzbv-PTH12050WAH.html
 
+
+![0.png](0.png)
+
+```
 DC-DC CONVERTERS POLA Non-isolated 1
 NEW Product
 File Name: pth12050.pdf Rev: 6 Nov 2006
@@ -342,3 +346,4 @@ PIN NO. FUNCTION
 4 Inhibit*
 5 Vo adjust
 6 Vout
+```
